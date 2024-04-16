@@ -15,11 +15,7 @@
   --border-color: hsl(var(--second-hue), 4%, 55%);
   --body-color: hsl(var(--first-hue), 60%, 98%);
   --container-color: #f2f2f9;
-  --color_text-primary: #353894;
-    --color_text-secundary: #b99e85;
-    --color_text-tertiary: #484848; 
-    --main_color-primary: #e98235; 
-    --background-color: #f2f2f9; 
+  
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -666,7 +662,7 @@ img {
 /*=============== PROJECT ===============*/
 .project {
   padding: 6.25rem 0;
-  background-image: url("../img/obra_blanca.jpg");
+  background-image: url("./assets/img/obra_blanca.jpg");
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
